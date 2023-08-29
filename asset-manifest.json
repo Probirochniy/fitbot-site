@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fitbot-site/static/css/main.469697d4.css",
-    "main.js": "/fitbot-site/static/js/main.53d3ec44.js",
+    "main.css": "/fitbot-site/static/css/main.e9a070ec.css",
+    "main.js": "/fitbot-site/static/js/main.3719ad09.js",
     "static/js/787.29e2945a.chunk.js": "/fitbot-site/static/js/787.29e2945a.chunk.js",
     "index.html": "/fitbot-site/index.html",
-    "main.469697d4.css.map": "/fitbot-site/static/css/main.469697d4.css.map",
-    "main.53d3ec44.js.map": "/fitbot-site/static/js/main.53d3ec44.js.map",
+    "main.e9a070ec.css.map": "/fitbot-site/static/css/main.e9a070ec.css.map",
+    "main.3719ad09.js.map": "/fitbot-site/static/js/main.3719ad09.js.map",
     "787.29e2945a.chunk.js.map": "/fitbot-site/static/js/787.29e2945a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469697d4.css",
-    "static/js/main.53d3ec44.js"
+    "static/css/main.e9a070ec.css",
+    "static/js/main.3719ad09.js"
   ]
 }
